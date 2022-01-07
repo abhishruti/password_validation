@@ -1,4 +1,4 @@
-# password_validation
+# password_validation [MUST USE - try, raise Exception]
 
 Louise joined a social networking site to stay in touch with her friends. The signup page required her to input a name and a password. However, the password must be strong. The website considers a password to be strong if it satisfies the following criteria:
 
@@ -85,5 +85,3 @@ Sample Output 1
 Explanation 1
 
 The password isn’t strong, but she can make it strong by adding a single digit.
-
-#MUST USE - try, raise Exception
